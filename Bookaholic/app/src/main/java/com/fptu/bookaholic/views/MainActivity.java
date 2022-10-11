@@ -1,8 +1,10 @@
-package com.fptu.bookaholic;
+package com.fptu.bookaholic.views;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.fptu.bookaholic.R;
 
 public class MainActivity extends AppCompatActivity {
 
