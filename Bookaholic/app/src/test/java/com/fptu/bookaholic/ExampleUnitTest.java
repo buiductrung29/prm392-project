@@ -1,4 +1,4 @@
-package com.example.bookaholic;
+package com.fptu.bookaholic;
 
 import org.junit.Test;
 

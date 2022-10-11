@@ -1,4 +1,4 @@
-package com.example.bookaholic;
+package com.fptu.bookaholic;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.bookaholic", appContext.getPackageName());
+        assertEquals("com.fptu.bookaholic", appContext.getPackageName());
     }
 }
