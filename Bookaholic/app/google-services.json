@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "345591868181",
+    "project_id": "prm392-717c6",
+    "storage_bucket": "prm392-717c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345591868181:android:52e743968e1ec37150571c",
+        "android_client_info": {
+          "package_name": "com.fptu.bookaholic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345591868181-ikf7rs1fsupsp0ko1mvhpulhf6oisnku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fptu.bookaholic",
+            "certificate_hash": "400ce3513c2f16105ea49b5606299efd369696d4"
+          }
+        },
+        {
+          "client_id": "345591868181-h6tko6blp3dfrpgmce68kjrhtoakg13u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALh7mb_NgCda2Ki1Gb5c1mzFUFf89zqQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345591868181-h6tko6blp3dfrpgmce68kjrhtoakg13u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
