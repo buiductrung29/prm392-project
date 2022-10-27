@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/img"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+    <include layout="@layout/toolbar"/>
+
+    <EditText
+        android:id="@+id/editTextTextPersonName"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_weight="1"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Living a Live"
+        android:textStyle="bold"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <ImageView
+        android:id="@+id/tLiving"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_margin="2dp"
+        android:layout_weight="1"
+        android:src="@drawable/living"
+        />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName2"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_weight="1"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Your dumbass"
+        android:textStyle="bold"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <ImageView
+        android:id="@+id/tBadass"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_margin="2dp"
+        android:layout_weight="1"
+        android:src="@drawable/badass" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName3"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_weight="1"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="5 seconds rule"
+        android:textStyle="bold"
+        tools:ignore="TouchTargetSizeCheck,TouchTargetSizeCheck" />
+
+    <ImageView
+        android:id="@+id/tRule"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_margin="2dp"
+        android:layout_weight="1"
+        android:src="@drawable/rule" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName4"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_weight="1"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Boundaries"
+        android:textStyle="bold"
+        tools:ignore="TouchTargetSizeCheck,TouchTargetSizeCheck" />
+
+    <ImageView
+        android:id="@+id/tBound"
+        android:layout_width="100dp"
+        android:layout_weight="1"
+        android:layout_height="100dp"
+        android:layout_margin="2dp"
+        android:src="@drawable/boundarie" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName5"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_weight="1"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Give and Take"
+        android:textStyle="bold"
+        tools:ignore="TouchTargetSizeCheck,TouchTargetSizeCheck" />
+
+    <ImageView
+        android:id="@+id/tGive"
+        android:layout_width="100dp"
+        android:layout_weight="1"
+        android:layout_height="100dp"
+        android:layout_margin="2dp"
+        android:src="@drawable/givebook" />
+
+</LinearLayout>
